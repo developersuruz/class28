@@ -1,0 +1,33 @@
+
+/* responsive-css */
+
+@media all and (max-width: 992px){
+
+}
+@media all and (max-width: 768px) {
+    .col-md-6 {
+        /* width: 50%; */
+    }
+    .col-md-6 { 
+    }
+    .about .row {
+        padding-bottom: 25px;
+    }
+
+    .pricing-item ul li {
+        margin-top: 15px;
+        margin-bottom: 15px;
+        font-size: 15px;
+    }
+    .banner-img {
+        display: flex;
+        justify-content: center;
+    }
+    .banner-img img {
+        width: 65%;
+    }
+  }
+
+@media (min-width: 576px) {
+    
+ }

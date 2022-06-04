@@ -1,0 +1,56 @@
+/* defult-css */
+/* *{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1440px;
+    margin: auto;
+}
+img{
+    width: 100%;
+} */
+
+/* Pricing table */
+.pricing-item{
+    background-color: #ffffff;
+    padding: 50px;
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+    border-radius: 5px;
+}
+.price-sl h2{
+    line-height: 80px;
+}
+.pricing-item .price-sl{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #f9f9ff;
+   
+}
+.pricing-item .price-sl h2{
+ text-align: center;
+   
+}
+.pricing-item ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    margin-bottom: 45px;
+}
+.pricing-item ul li {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: #777;
+}
+
+.about-item {
+    margin-top: 90px;
+}
+.about-item .card img {
+    width: 130px;
+    height: auto;
+    margin-top: -70px;
+    margin-left: 15px;
+}
